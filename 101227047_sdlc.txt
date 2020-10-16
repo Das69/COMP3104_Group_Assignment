@@ -1,1 +1,2 @@
 This is SDLC file.
+SDLC means Sofware development life cycle.
